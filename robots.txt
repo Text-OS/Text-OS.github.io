@@ -1,6 +1,0 @@
-# Robots.txt file
-# Licensed under public domain
-
-User-agent: *
-Disallow: images/
-Disallow: cs.html
